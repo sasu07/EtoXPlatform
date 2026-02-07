@@ -1,0 +1,1644 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-01-03T16:58:13.571183+00:00",
+  "source": {
+    "external_id": "bac-2025-mate-info-var-09",
+    "name": "Bacalaureat 2025 – Matematică M_mate-info – Varianta 9",
+    "type": "BAC",
+    "year": 2025,
+    "session": null,
+    "profile": "M_mate-info",
+    "file_name": "E_c_matematica_M_mate-info_2025_var_09_LRO.pdf",
+    "page_count": 2
+  },
+  "tag_catalog": [
+    {
+      "namespace": "exam",
+      "key": "bacalaureat",
+      "label": "Bacalaureat",
+      "parent": null
+    },
+    {
+      "namespace": "profile",
+      "key": "mate-info",
+      "label": "Matematică-informatică",
+      "parent": null
+    },
+    {
+      "namespace": "year",
+      "key": "2025",
+      "label": "2025",
+      "parent": null
+    },
+    {
+      "namespace": "variant",
+      "key": "09",
+      "label": "Varianta 9",
+      "parent": null
+    },
+    {
+      "namespace": "subject",
+      "key": "I",
+      "label": "Subiectul I",
+      "parent": null
+    },
+    {
+      "namespace": "subject",
+      "key": "II",
+      "label": "Subiectul II",
+      "parent": null
+    },
+    {
+      "namespace": "subject",
+      "key": "III",
+      "label": "Subiectul III",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "complex_numbers",
+      "label": "Numere complexe",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "functions",
+      "label": "Funcții",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "logarithms",
+      "label": "Logaritmi",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "combinatorics",
+      "label": "Combinatorică",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "vectors",
+      "label": "Vectori",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "geometry",
+      "label": "Geometrie",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "linear_algebra",
+      "label": "Algebră liniară",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "polynomials",
+      "label": "Polinoame",
+      "parent": null
+    },
+    {
+      "namespace": "topic",
+      "key": "calculus",
+      "label": "Analiză matematică",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "arithmetic",
+      "label": "Calcul algebric",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "composition",
+      "label": "Compunere de funcții",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "solve_equation",
+      "label": "Rezolvare ecuații",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "counting",
+      "label": "Numărare / principii de numărare",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "coordinate_geometry",
+      "label": "Geometrie analitică",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "area",
+      "label": "Arie",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "determinant",
+      "label": "Determinant",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "linear_systems",
+      "label": "Sisteme de ecuații",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "vieta",
+      "label": "Relațiile lui Viète",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "remainder_theorem",
+      "label": "Teorema restului",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "derivative",
+      "label": "Derivată",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "tangent",
+      "label": "Tangentă",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "inequality",
+      "label": "Inegalități",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "integral",
+      "label": "Integrală",
+      "parent": null
+    },
+    {
+      "namespace": "skill",
+      "key": "limit",
+      "label": "Limită",
+      "parent": null
+    }
+  ],
+  "exercises": [
+    {
+      "external_id": "B2025-MI-V09-S1-1",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 1,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că 3(4-5i)+5i(3+2i)=2, unde i^2=-1.",
+      "statement_latex": "Arătați că \\(3(4-5i)+5i(3+2i)=2\\), unde \\(i^2=-1\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "complex_numbers",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "arithmetic",
+          "confidence": 0.9,
+          "weight": 0.8
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S1-2",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 1,
+      "estimated_time_sec": null,
+      "statement_text": "Se consideră funcțiile f(x)=x+4 și g(x)=2x+a. Determinați a pentru care (g∘f)(1)=1.",
+      "statement_latex": "Se consideră funcțiile \\(f:\\mathbb{R}\\to\\mathbb{R},\\, f(x)=x+4\\) și \\(g:\\mathbb{R}\\to\\mathbb{R},\\, g(x)=2x+a\\). Determinați \\(a\\) pentru care \\((g\\circ f)(1)=1\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "functions",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "composition",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S1-3",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "Rezolvați în mulțimea numerelor reale ecuația log2(6x−x^2)=log2(4+x).",
+      "statement_latex": "Rezolvați în \\(\\mathbb{R}\\) ecuația \\(\\log_{2}(6x-x^{2})=\\log_{2}(4+x)\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "logarithms",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "solve_equation",
+          "confidence": 0.9,
+          "weight": 0.9
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S1-4",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "A={3,4,5,7,9}. Determinați câte numere naturale impare, de două cifre distincte, se pot forma cu cifre din A.",
+      "statement_latex": "Se consideră mulțimea \\(A=\\{3,4,5,7,9\\}\\). Determinați câte numere naturale impare, de două cifre distincte, se pot forma cu cifre din \\(A\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "combinatorics",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "counting",
+          "confidence": 0.9,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S1-5",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "În reperul cartezian xOy se consideră punctele A(0,2) și B(6,4). Determinați coordonatele punctului C pentru care 2\\overrightarrow{AC}=\\overrightarrow{OB}.",
+      "statement_latex": "În reperul cartezian \\(xOy\\) se consideră punctele \\(A(0,2)\\) și \\(B(6,4)\\). Determinați coordonatele punctului \\(C\\) pentru care \\(2\\overrightarrow{AC}=\\overrightarrow{OB}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "vectors",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "coordinate_geometry",
+          "confidence": 0.85,
+          "weight": 0.8
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S1-6",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "I",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "Triunghiul ABC este dreptunghic în A, AB=4, iar raza cercului circumscris este 4. Arătați că aria este 8√3.",
+      "statement_latex": "Se consideră triunghiul \\(ABC\\), dreptunghic în \\(A\\), cu \\(AB=4\\) și raza cercului circumscris egală cu \\(4\\). Arătați că aria triunghiului \\(ABC\\) este \\(8\\sqrt{3}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "I",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "geometry",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "area",
+          "confidence": 0.85,
+          "weight": 0.9
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-1",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "problem",
+      "points": 0,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Se consideră matricea A(a) și sistemul de ecuații (cu parametru real a).",
+      "statement_latex": "Se consideră matricea \\(A(a)=\\begin{pmatrix} a&1&2a\\\\ a&1&0\\\\ 1&1&-a\\end{pmatrix}\\) și sistemul \\(\\begin{cases} ax+y+2az=a+1\\\\ ax+y=0\\\\ x+y-az=-1\\end{cases}\\), unde \\(a\\in\\mathbb{R}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "linear_algebra",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "linear_systems",
+          "confidence": 0.9,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-1a",
+      "parent_external_id": "B2025-MI-V09-S2-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că det(A(2))=4.",
+      "statement_latex": "Arătați că \\(\\det(A(2))=4\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "linear_algebra",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "determinant",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-1b",
+      "parent_external_id": "B2025-MI-V09-S2-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Pentru a=1, arătați că sistemul de ecuații are o infinitate de soluții.",
+      "statement_latex": "Pentru \\(a=1\\), arătați că sistemul de ecuații are o infinitate de soluții.",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "linear_algebra",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "linear_systems",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-1c",
+      "parent_external_id": "B2025-MI-V09-S2-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 4,
+      "estimated_time_sec": null,
+      "statement_text": "Determinați numărul real a pentru care sistemul are soluția unică (x0,y0,z0) și x0=a.",
+      "statement_latex": "Determinați numărul real \\(a\\) pentru care sistemul are soluția unică \\((x_0,y_0,z_0)\\) și \\(x_0=a\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "linear_algebra",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "linear_systems",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-2",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "problem",
+      "points": 0,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Se consideră polinomul f(x)=x^4−3x^3+x^2−2x+m.",
+      "statement_latex": "Se consideră polinomul \\(f(x)=x^{4}-3x^{3}+x^{2}-2x+m\\), unde \\(m\\in\\mathbb{R}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "polynomials",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-2a",
+      "parent_external_id": "B2025-MI-V09-S2-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 2,
+      "estimated_time_sec": null,
+      "statement_text": "Pentru m=3, arătați că f(1)=0.",
+      "statement_latex": "Pentru \\(m=3\\), arătați că \\(f(1)=0\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "polynomials",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "solve_equation",
+          "confidence": 0.7,
+          "weight": 0.4
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-2b",
+      "parent_external_id": "B2025-MI-V09-S2-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 4,
+      "estimated_time_sec": null,
+      "statement_text": "Determinați m pentru care (x1x2x3x4)^2 − x1 − x2 − x3 − x4 = 1, unde xi sunt rădăcinile lui f.",
+      "statement_latex": "Determinați \\(m\\in\\mathbb{R}\\) pentru care \\((x_1x_2x_3x_4)^2-x_1-x_2-x_3-x_4=1\\), unde \\(x_1,x_2,x_3,x_4\\) sunt rădăcinile polinomului \\(f\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "polynomials",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "vieta",
+          "confidence": 0.9,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S2-2c",
+      "parent_external_id": "B2025-MI-V09-S2-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "II",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Pentru m=0, determinați a astfel încât restul împărțirii lui f la x−a este egal cu a.",
+      "statement_latex": "Pentru \\(m=0\\), determinați \\(a\\in\\mathbb{R}\\) pentru care restul împărțirii polinomului \\(f\\) la polinomul \\(x-a\\) este egal cu \\(a\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "II",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "polynomials",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "remainder_theorem",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-1",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "problem",
+      "points": 0,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Se consideră funcția f(x)=(x^2+6)/sqrt(x^2+1).",
+      "statement_latex": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=\\dfrac{x^{2}+6}{\\sqrt{x^{2}+1}}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-1a",
+      "parent_external_id": "B2025-MI-V09-S3-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că f'(x)= x(x^2−4)/((x^2+1)·sqrt(x^2+1)).",
+      "statement_latex": "Arătați că \\(f'(x)=\\dfrac{x(x^{2}-4)}{(x^{2}+1)\\sqrt{x^{2}+1}}\\), \\(x\\in\\mathbb{R}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "derivative",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-1b",
+      "parent_external_id": "B2025-MI-V09-S3-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Determinați ecuația tangentei la graficul funcției f în punctul de abscisă x=0.",
+      "statement_latex": "Determinați ecuația tangentei la graficul funcției \\(f\\) în punctul de abscisă \\(x=0\\), situat pe graficul funcției \\(f\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "tangent",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-1c",
+      "parent_external_id": "B2025-MI-V09-S3-1",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 4,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că f(7x)−f(x)≤2√2 pentru orice x∈[0,1].",
+      "statement_latex": "Arătați că \\(f(7x)-f(x)\\le 2\\sqrt{2}\\), pentru orice \\(x\\in[0,1]\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 1,
+        "page_end": 1
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.85,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "inequality",
+          "confidence": 0.85,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-2",
+      "parent_external_id": null,
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "problem",
+      "points": 0,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Se consideră funcția f(x)=3x^2−1+e^{2x}.",
+      "statement_latex": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=3x^{2}-1+e^{2x}\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 2,
+        "page_end": 2
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-2a",
+      "parent_external_id": "B2025-MI-V09-S3-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 3,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că ∫_0^3 (f(x)−e^{2x}) dx = 24.",
+      "statement_latex": "Arătați că \\(\\displaystyle \\int_{0}^{3}\\bigl(f(x)-e^{2x}\\bigr)\\,dx=24\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 2,
+        "page_end": 2
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "integral",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-2b",
+      "parent_external_id": "B2025-MI-V09-S3-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 4,
+      "estimated_time_sec": null,
+      "statement_text": "Arătați că ∫_0^1 4x(f(x)−3x^2+1) dx = e^2+1.",
+      "statement_latex": "Arătați că \\(\\displaystyle \\int_{0}^{1}4x\\bigl(f(x)-3x^{2}+1\\bigr)\\,dx=e^{2}+1\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 2,
+        "page_end": 2
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.95,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "integral",
+          "confidence": 0.95,
+          "weight": 1.0
+        }
+      ],
+      "status": "DRAFT"
+    },
+    {
+      "external_id": "B2025-MI-V09-S3-2c",
+      "parent_external_id": "B2025-MI-V09-S3-2",
+      "exam_type": "BAC",
+      "profile": "M_mate-info",
+      "subject_part": "III",
+      "item_type": "item",
+      "points": 5,
+      "difficulty": 4,
+      "estimated_time_sec": null,
+      "statement_text": "Demonstrați că lim_{x→0} (1/x^2) ∫_0^x f(t)/(t+1) dt = 1.",
+      "statement_latex": "Demonstrați că \\(\\displaystyle \\lim_{x\\to 0}\\frac{1}{x^{2}}\\int_{0}^{x}\\frac{f(t)}{t+1}\\,dt=1\\).",
+      "answer_latex": null,
+      "solution_latex": null,
+      "source_ref": {
+        "source_external_id": "bac-2025-mate-info-var-09",
+        "page_start": 2,
+        "page_end": 2
+      },
+      "tags": [
+        {
+          "namespace": "exam",
+          "key": "bacalaureat",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "profile",
+          "key": "mate-info",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "year",
+          "key": "2025",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "variant",
+          "key": "09",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "subject",
+          "key": "III",
+          "confidence": 1.0,
+          "weight": 1.0
+        },
+        {
+          "namespace": "topic",
+          "key": "calculus",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "limit",
+          "confidence": 0.9,
+          "weight": 1.0
+        },
+        {
+          "namespace": "skill",
+          "key": "integral",
+          "confidence": 0.8,
+          "weight": 0.8
+        }
+      ],
+      "status": "DRAFT"
+    }
+  ],
+  "integration_mapping": {
+    "postgres_tables": {
+      "SOURCES": "Insert one row for `source` (type/year/profile/notes/file_path).",
+      "SOURCE_SEGMENTS": "Optional for this JSON; you can create one segment per page (page_start=page_end=n) with status=EXTRACTED and raw_extraction = OCR/text.",
+      "EXERCISES": "Insert one row per element in `exercises` where points>0 (or include problem rows if you want hierarchical grouping).",
+      "TAGS": "Upsert by (namespace,key) from `tag_catalog`.",
+      "EXERCISE_TAGS": "For each exercise.tags item, insert (exercise_id, tag_id, confidence, weight).",
+      "EXERCISE_SOURCE_SEGMENTS": "Link each exercise to the corresponding page-segment(s) via page_start/page_end from source_ref."
+    },
+    "id_strategy": {
+      "external_id": "Use `external_id` as stable business key; store it in EXERCISES.metadata.external_id and SOURCES.notes or a dedicated column if you add one.",
+      "uuid": "Use generated UUIDs as PKs in DB; map external_id -> uuid during import."
+    },
+    "recommended_import_order": [
+      "SOURCES",
+      "SOURCE_SEGMENTS",
+      "TAGS",
+      "EXERCISES",
+      "EXERCISE_TAGS",
+      "EXERCISE_SOURCE_SEGMENTS"
+    ]
+  }
+}
